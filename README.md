@@ -21,7 +21,7 @@ Before we start make sure you have configured a basic Gatsby project setup.
  <details>
  <summary> <strong><code> Step #0</code></strong>: Don't have a Gatsby site setup? Read this. (CLICK TO EXPAND!) </summary>
 
-In case you are an absolute beginner and this is your first time with Gatsby.js, all you need to do is follow these steps mentioned below. These will help you set up a basic Gatsby project.
+In case you are an absolute beginner and this is your first time with Gatsby.js, all you need to do is follow these steps. These will help you set up a basic Gatsby project.
 
 - Install the Gatsby CLI by typing the following command in your terminal
 
