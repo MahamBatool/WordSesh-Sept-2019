@@ -6,7 +6,7 @@
 
 <br>
 
-Building static sites with `React.js` using **Gatsby** provides an **easy to deploy setup**, **blazing fast speed**, and **smooth developer experience**. We are all aware of the three fundamentals of website development i.e.,
+Building static sites with `React.js` using **Gatsby.js** provides an **easy to deploy setup**, **blazing fast speed**, and **smooth developer experience**. We are all aware of the three phases of website development i.e.,
 
 - Development
 - Staging
