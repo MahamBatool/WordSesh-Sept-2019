@@ -6,7 +6,7 @@
 
 <br>
 
-Building static sites with `React.js` using **Gatsby** provides an **easy to deploy setup**, **blazing fast speed**, and **smooth developer experience**. We are all aware of the three fundamentals of website development i.e.,
+Building static sites with `React.js` using **Gatsby** provides an **easy to deploy setup**, **blazing fast speed**, and **smooth developer experience**. We are all aware of the three phases of website development i.e.,
 
 - Development
 - Staging
@@ -56,7 +56,7 @@ To optimize a Gatsby site make sure you have the following functionalities set u
 - Embed Videos
 - RSS Feed
 
-### 🔘Adding Custom Sitemaps
+### 🔘 Adding Custom Sitemaps
 
 Sitemaps maintains a list of all pages to tell search engines like Google about the organization of your site content. These prompts information about an unindexed
 page to get it appropriately indexed. They are equally important for new and old sites. But a new website needs sitemap since it is difficult for search engines to find posts and pages of a new site.
