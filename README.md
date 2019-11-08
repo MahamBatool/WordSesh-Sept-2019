@@ -12,7 +12,7 @@ Building static sites with `React.js` using **Gatsby** provides an **easy to dep
 - Staging
 - Production
 
-**JAMstack (JavaScript APIs Markup)** is awesome and being the recent trend I am going to explain some of the best ways through which you can optimize your `Gatsby.js` website before production.
+**JAMstack (JavaScript APIs Markup)** is awesome and being the recent trend I am going to explain some of the best ways through which you can optimize your `Gatsby.js` website before you set your site for production.
 
 Before we start make sure you have configured a basic Gatsby project setup.
 
